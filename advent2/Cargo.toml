@@ -1,0 +1,6 @@
+[package]
+name = "advent2"
+version = "0.1.0"
+authors = ["Alessandro Dalfovo <alessandro.dalfovo@paros.srl>"]
+
+[dependencies]
